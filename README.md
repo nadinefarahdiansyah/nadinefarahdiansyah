@@ -1,7 +1,19 @@
 <h1 align="center">Hi, I'm Nadine Azzadiena Farahdiansyah 👋</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Information+Systems+%26+Digital+Innovation+Student;Creative+Media+and+UI%2FUX+Enthusiast;Building+digital+solutions+one+step+at+a+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Digital+Innovation+Student+ITS;Creative+Media+and+UI%2FUX+Enthusiast;Building+digital+solutions+one+step+at+a+time" alt="Typing SVG" /></a>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/nadine-azzadiena-farahdiansyah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nadine.farahdiansyah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <!-- TOMBOL CV BARU DIBAWAH INI -->
+  <a href="https://drive.google.com/file/d/1I0JJYxSrLzolR4YbhtBsrhGnEA169n15/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_My-CV-%2338bdf8?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge"/>
+  </a>
+</div>
 </div>
 
 <br>
